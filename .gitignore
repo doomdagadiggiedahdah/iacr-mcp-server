@@ -5,6 +5,10 @@ node_modules/
 build/
 dist/
 
+# Dependency lock files
+package-lock.json
+yarn.lock
+
 # Environment files
 .env
 *.env
