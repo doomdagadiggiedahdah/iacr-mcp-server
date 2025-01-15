@@ -1,0 +1,24 @@
+{
+  "name": "iacr-mcp-server",
+  "version": "0.1.0",
+  "description": "MCP Server for IACR Cryptology ePrint Archive",
+  "type": "module",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "latest",
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0-rc.12",
+    "xml2js": "^0.6.2",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.35",
+    "@types/node": "^20.10.0",
+    "@types/xml2js": "^0.4.14",
+    "typescript": "^5.3.2"
+  }
+}
