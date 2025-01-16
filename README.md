@@ -4,6 +4,8 @@
 
 This Model Context Protocol (MCP) server provides a programmatic interface to the IACR Cryptology ePrint Archive, enabling efficient retrieval of cryptographic research papers.
 
+<a href="https://glama.ai/mcp/servers/e2oh3a96de"><img width="380" height="200" src="https://glama.ai/mcp/servers/e2oh3a96de/badge" alt="IACR Server MCP server" /></a>
+
 ## Features
 
 - 🔍 Search cryptographic papers
