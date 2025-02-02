@@ -1,5 +1,7 @@
 # IACR Cryptology ePrint Archive MCP Server
 
+[![smithery badge](https://smithery.ai/badge/iacr-mcp-server)](https://smithery.ai/server/iacr-mcp-server)
+
 ## Overview
 
 This Model Context Protocol (MCP) server provides a programmatic interface to the IACR Cryptology ePrint Archive, enabling efficient retrieval of cryptographic research papers.
@@ -19,6 +21,15 @@ This Model Context Protocol (MCP) server provides a programmatic interface to th
 
 ## Installation
 
+### Installing via Smithery
+
+To install IACR Cryptology ePrint Archive for Claude Desktop automatically via [Smithery](https://smithery.ai/server/iacr-mcp-server):
+
+```bash
+npx -y @smithery/cli install iacr-mcp-server --client claude
+```
+
+### Manual Installation
 ```bash
 git clone https://github.com/yourusername/iacr-mcp-server.git
 cd iacr-mcp-server
