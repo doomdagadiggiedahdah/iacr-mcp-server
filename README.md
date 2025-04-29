@@ -66,6 +66,13 @@ No additional configuration is required. The server uses the IACR ePrint Archive
 
 This is an unofficial tool. Always refer to the original IACR Cryptology ePrint Archive for the most accurate and up-to-date research publications.
 
+## Running evals
+
+```bash
+npx mcp-eval src/evals/evals.ts src/index.ts
+```
+
 ## Contact
 
 For issues, questions, or suggestions, please open a GitHub issue.
+
