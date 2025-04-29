@@ -12,6 +12,7 @@
     "@modelcontextprotocol/sdk": "latest",
     "axios": "^1.7.9",
     "cheerio": "^1.0.0-rc.12",
+    "mcp-evals": "^1.0.17",
     "xml2js": "^0.6.2",
     "zod": "^3.22.4"
   },
