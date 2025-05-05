@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/doomdagadiggiedahdah-iacr-mcp-server-badge.png)](https://mseep.ai/app/doomdagadiggiedahdah-iacr-mcp-server)
+
 # IACR Cryptology ePrint Archive MCP Server
 
 [![smithery badge](https://smithery.ai/badge/iacr-mcp-server)](https://smithery.ai/server/iacr-mcp-server)
